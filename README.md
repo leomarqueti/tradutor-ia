@@ -4,7 +4,7 @@ Este projeto é um tradutor baseado no modelo **mBART** da biblioteca Hugging Fa
 Este projeto é um tradutor baseado no modelo **mBART** da biblioteca Hugging Face. Ele traduz textos do inglês para o português usando um modelo de linguagem avançado de processamento de linguagem natural (NLP).
 
 
-![Demonstração do Tradutor](assets/exemplo.gif)
+![Demonstração do Tradutor](Gravando2024-12-08180221.gif-ezgif.com-video-to-gif-converter.gif)
 
 
 ---
