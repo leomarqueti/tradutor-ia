@@ -19,20 +19,16 @@ Este projeto é um tradutor baseado no modelo **mBART** da biblioteca Hugging Fa
 
 ## **Instalação**
 
-### 1. Clone este repositório:### 
+### 1. Clone este repositório:
 
 git clone https://leomarqueti/tradutor-ia/tradutor-ia.git
-cd tradutor-ia
+
 ## **2. Instale as dependências:**
 
-bash
-Copiar código
 pip install -r requirements.txt
 
 ## **3. Execute o programa:**
 
-
-Copiar código
 python tradutor.py
 
 Como Usar
